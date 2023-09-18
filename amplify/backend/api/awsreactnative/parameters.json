@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "awsreactnative",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authawsreactnative202545b0",
+      "Outputs.UserPoolId"
+    ]
+  },
+  "AuthModeLastUpdated": "2023-09-11T12:33:26.832Z"
+}

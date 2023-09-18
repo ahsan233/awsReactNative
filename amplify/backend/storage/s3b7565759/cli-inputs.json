@@ -1,0 +1,13 @@
+{
+  "resourceName": "s3b7565759",
+  "policyUUID": "b7565759",
+  "bucketName": "awsreactnative85695b957fa147d5ad244ee84ec39d7b",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}
